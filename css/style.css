@@ -310,7 +310,8 @@ h1,h2,h3{ font-family: var(--font-title); font-style: italic; font-weight:600; m
   border-radius: 15px 15px 0 0;
 }
 .detail-card h3{ font-family: var(--font-body); font-size: 20px; font-weight:600; margin-bottom: 8px; color: var(--burgundy); }
-.detail-card p{ margin: 2px 0; font-size: 17px; }
+.detail-card p{ margin: 2px 0; font-size: 27px; }
+.detail-card p[data-field="dateText"]{ font-size: 22px; }
 .detail-address{ color:#8a7a66; font-size: 15px; }
 .map-btn{
   display:inline-block; margin-top: 12px; padding: 8px 18px;
