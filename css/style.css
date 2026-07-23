@@ -4,8 +4,8 @@
 :root{
   --gold: #c9a24b;
   --gold-light: #e8d3a0;
-  --cream: #fbf6ec;
-  --cream-dark: #f2e8d6;
+  --cream: #ffffff;
+  --cream-dark: #f8f8f8;
   --burgundy: #6e2b3a;
   --ink: #3a2c22;
   /* Важно: шрифты ниже подобраны так, чтобы поддерживать ВСЕ казахские буквы
