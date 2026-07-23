@@ -302,6 +302,8 @@ h1,h2,h3{ font-family: var(--font-title); font-style: italic; font-weight:600; m
   display:block;
   width: calc(100% + 44px);
   height: 150px;
+  max-height:150px;
+  aspect-ratio:16 / 9;
   margin: -28px -22px 20px;
   object-fit: cover;
   object-position: center center;
@@ -426,6 +428,12 @@ h1,h2,h3{ font-family: var(--font-title); font-style: italic; font-weight:600; m
 @media (max-width: 560px){
   .hero-names{ font-size: 42px; }
   .section-title{ font-size: 32px; }
+  .detail-card{ width: min(100%, 320px); }
+  .venue-photo{
+    height:120px;
+    max-height:120px;
+    margin-top:-28px;
+  }
   .timeline-item{ width:100%; left:0 !important; text-align:left !important; padding-left: 30px; }
   .timeline::before{ left: 4px; }
   .timeline-item .timeline-dot{ left:-1px !important; right:auto !important; }
