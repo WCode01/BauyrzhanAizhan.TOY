@@ -21,11 +21,11 @@ const WEDDING_CONFIG = {
   timeText: "18:00",
 
   // Место проведения
-  venue: "«Той залы» мейрамханасы",
-  address: "Қала, көше, үй №",
+  venue: "«Samir» мейрамханасы",
+  address: "Алматы, Егінсу көшесі, №29/11",
 
   // Ссылка на Google Maps (можно взять из Google Maps -> Поделиться -> Копировать ссылку)
-  mapUrl: "https://maps.google.com/",
+  mapUrl: "https://2gis.kz/almaty/firm/70000001042696899",
 
   // Родители жениха и невесты (для строки-приглашения)
 
