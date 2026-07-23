@@ -188,7 +188,7 @@ h1,h2,h3{ font-family: var(--font-title); font-style: italic; font-weight:600; m
   content:'';
   position:absolute; inset:0;
   z-index:-2;
-  background-image:url('https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=85');
+  background-image:url('../assets/photos/hero-wedding.jpg');
   background-size:cover;
   background-position:center 68%;
   transform:scale(1.03);
